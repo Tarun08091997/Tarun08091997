@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TarunKumar
-- 👀 I’m interested in Game/Software devlopement
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in WebDev , Game , Software devlopement
+- 🌱 I’m currently learning React
 
 <!---
 Tarun08091997/Tarun08091997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
